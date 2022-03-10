@@ -1,10 +1,7 @@
 import {
     useParams,
-    Link,
     Navigate,
     useNavigate,
-    Routes,
-    Route,
 } from 'react-router-dom';
 import Card from './shared/Card';
 
